@@ -1,5 +1,4 @@
-<h3 align="center">Tenho 22 anos, sou desenvolvedor fullstack e apaixonado em criar soluções</h3>
-
+<h3 align="center">I'm a 22-year-old full-stack developer focused on creating efficient, practical, and scalable solutions</h3>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
